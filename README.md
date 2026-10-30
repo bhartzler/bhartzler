@@ -1,0 +1,3 @@
+- [iDig](https://github.com/iDig-Recording-Archaeology/idig-server): an iPad app that records an excavation in the trench; in use since 2012 at the Athenian Agora. The link goes to its server.
+- [LSJAI](https://github.com/bhartzler/LSJAI): the Liddell-Scott-Jones Greek lexicon as edited for Logeion at Chicago, with corrections by AI agents, each correction with its evidence.
+- [morpheus](https://github.com/bhartzler/morpheus): Perseus's Morpheus, a morphological parser for Greek and Latin, made to build on macOS, with a few bug fixes.
